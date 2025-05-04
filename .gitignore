@@ -1,0 +1,6 @@
+# Ignore Python virtual environment folders
+venv/
+.venv/
+
+# Ignore safetensors model files
+*.safetensors
